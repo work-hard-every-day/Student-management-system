@@ -1,1 +1,2 @@
-# Student-management-system
+# 学生管理系统
+该系统开发语言为C，是一个C的练习项目
